@@ -1,0 +1,5 @@
+{
+  "name": "Social Video Downloader",
+  "description": "Download videos from social media platforms with a browser extension-like interface.",
+  "requestFramePermissions": []
+}
